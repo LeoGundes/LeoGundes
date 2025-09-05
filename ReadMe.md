@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing Software Engineering on PUCRS<br>👯 I’m looking for internship<br>🤝 I’m looking for help with Swift<br>🌱 I’m currently learning JavaScript, React and CSS<br>💬 Ask me about movies
+🔭 I’m currently studing Software Engineering on PUCRS<br>🔭 I’m Currently work on Y4 Solution<br>🌱 I’m currently learning JavaScript, Node and Express<br>💬 Ask me about movies
 
 
 ## 🌐 Socials:
